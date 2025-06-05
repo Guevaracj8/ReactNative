@@ -16,7 +16,7 @@ const styles = StyleSheet.create({
     alignItems: 'center'
   },
   text: {
-    color: 'skyblue', // Celeste
+    color: 'skyblue', 
     fontSize: 18,
   },
 });
